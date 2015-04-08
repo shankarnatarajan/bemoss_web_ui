@@ -79,7 +79,6 @@ Use the Install File available in the bemoss_os download folder for quick UI ins
 Run BEMOSS UI using the following command.
 
 ```
-#!python
 
 $ python bemoss_server.py
 
